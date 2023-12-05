@@ -7,4 +7,5 @@ body{
     border-radius: 3%;
     padding: 5px;
     border: 10px solid green;
+    background-image: conic gradient(blue, magenta)
   }
